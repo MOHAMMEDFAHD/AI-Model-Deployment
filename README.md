@@ -79,6 +79,7 @@ A full exploration of LLM-specific serving challenges:
 - Performance benchmarking  
 
 ---
+```
 ai-model-deployment/
 │
 ├── docs/
@@ -101,7 +102,7 @@ ai-model-deployment/
 ├── gpu-serving/
 ├── edge-deployment/
 └── serverless-deployment/
-
+```
 
 ---
 
